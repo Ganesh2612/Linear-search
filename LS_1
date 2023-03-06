@@ -19,5 +19,5 @@ break;
 }
 if(flag==0)
 printf("Element is not found");
-return 0;
+return 10;
 }
